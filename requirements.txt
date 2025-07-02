@@ -11,3 +11,7 @@ tensorflow==2.15.0
 tensorboard
 matplotlib
 Streamlit
+tensorflow==2.15.0
+keras==2.15.0
+tensorboard==2.15.0 
+ml-dtypes==0.2.0
