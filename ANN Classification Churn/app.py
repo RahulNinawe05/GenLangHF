@@ -1,3 +1,9 @@
+import streamlit as st
+
+st.set_page_config(page_title="Customer Churn ANN", layout="centered")
+st.title("Customer Churn Prediction with ANN")
+
+
 import os
 import streamlit as st
 import numpy as np
